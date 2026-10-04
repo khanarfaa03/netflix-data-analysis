@@ -4,8 +4,8 @@
 An exploratory data analysis project filtering Netflix dataset entries to uncover 1990s movie trends.
 
 ## Key Findings
-- Most frequent movie duration in the 1990s: [Insert result]
-- Number of short action movies (<90 mins): [Insert result]
+- Most frequent movie duration in the 1990s: [94 minutes]
+- Number of short action movies (<90 mins): [7 movies]
 
 ## Tools Used
 - Python
